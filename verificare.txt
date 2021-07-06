@@ -1,0 +1,50 @@
+	•	Ce este git? Este depozit care salveaza toate modificarile din cod.+
+	•	Este un system de versionare – permite gestionarea multiplelor versiuni a unor fisiere.+
+
+	•	Ce este un sistem de control al versiunilor – system care pastreaza versiuni succesiva ale codului?+
+
+	•	Cine a creat git? Creatorul Linux +
+
+	•	Ce limba e utilizata in git? C, C#, Java, Java script +
+
+	•	Care sunt avantajele principale ale utilizarii git? Lucrul in echipa asupra crearii unui proiect, reintoarcea la modificarile precedente, istoricul modificarilor in proiect.  +
+
+	•	Criti comanda de initializare a unui repozitoriu in git   : git init +
+
+	•	Ce este un director git? O mapa in care se afla   un repozitoriu (.git+
+ +
+	•	Ce se intimpla daca un director git este sters? Nu vom putea acces la proiectul git de pe local
++
+	•	Cum se scrie un mesaj de comit in git?
+
+Git commit –m “mesaj”+
+
+	•	Ce este un deposit gol? Vs git standart? Deposit gol – fara commit -
+
+	•	Mentionati serviciile de gazduire a depozitelor Git (min 3)? Github, gitlab,+
+
+	•	Denumiti citeva operatiune de baza in git? Git init, git clone URL, git add ., git commit –m”mesaj”, git push, git pull.+
+
+	•	Ce este un conflict in git si cum se rezolva? Apare cind nu am actualizat modificarile in proiect dup ace a fost efectuata clonarea. Git pull/ git push
++
+	•	Prin 2 comenzi spune ti instrumentului git emailul si numele autorului a urmatoarelor commituri?
+
+Git config --global user.email
+Git config --global user.name +
+
+	•	La ce se foloseste git stash?  La salvarea codului care va fi adaugat pe alt branch decat cel existent +
+
+	•	La ce foloseste comanda git clone? Clonarea proiectului de pe git pe local+
+
+	•	Cind se utilizeaza comanda git config? Pu a seta valorile de configurare la nivelul unui proiect local +
+
+	•	Comanda de stergere a unui branch?  Git branch delete nume_branch  -
+
+	•	Comanda de creare a unui branch?       Git branch nume_branch +
+
+Comanda de crearea si trece automata pe un branch   git checkout-b nume_brach +
+18/20 puncte
+
+
+
+
